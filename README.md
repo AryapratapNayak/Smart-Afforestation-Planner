@@ -180,20 +180,6 @@ To encourage environmental sustainability by providing users with a digital plat
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots of:
-
-- Landing Page
-- Login Page
-- Dashboard
-- Plantation Planner
-- Community Feed
-- Certificate
-- History Page
-
----
-
 ## 👨‍💻 Authors
 
 **Aryapratap M. Nayak**
