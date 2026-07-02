@@ -180,6 +180,57 @@ To encourage environmental sustainability by providing users with a digital plat
 
 ---
 
+## 📸 Project Screenshots
+
+### 🏠 Landing Page
+The landing page introduces the Smart Afforestation Planner and provides navigation to the login and registration pages.
+
+![Landing Page](Project_Screenshot/Landing_Page.png)
+
+---
+
+### 🔐 Login Page
+Users can securely log in to access their dashboard and plantation records.
+
+![Login Page](Project_Screenshot/Login_Page.png)
+
+---
+
+### 📝 Register Page
+New users can create an account by providing their name, email, and password.
+
+![Register Page](Project_Screenshot/Register_Page.png)
+
+---
+
+### 📊 Dashboard
+Displays the user's plantation statistics, carbon reduction, badges, plantation history, and certificate downloads.
+
+![Dashboard](Project_Screenshot/Dashboard_Page.png)
+
+---
+
+### 🌍 Suitability Analysis
+Analyzes the selected location using NDVI satellite data and weather information to determine plantation suitability.
+
+![Suitability Analysis](Project_Screenshot/Suitability_Analysis_Page.png)
+
+---
+
+### 📋 Area Analysis Report
+Shows the detailed environmental analysis report, including vegetation status, weather conditions, and plantation recommendations.
+
+![Area Analysis Report](Project_Screenshot/Area_Analysis_Report_Page.png)
+
+---
+
+### 📜 Analysis History
+Displays previously analyzed locations, allowing users to revisit and compare past plantation analyses.
+
+![Analysis History](Project_Screenshot/Analysis_History_Page.png)
+
+---
+
 ## 👨‍💻 Authors
 
 **Aryapratap M. Nayak**
